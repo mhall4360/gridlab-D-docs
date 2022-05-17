@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Molly's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -18,7 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
 
 Lumache has its documentation hosted on Read the Docs.
