@@ -15,7 +15,7 @@ Contents
 Guidance Docs
 -------------
 
-:doc:`GettingStartedLanding.rst`
+:doc:`GettingStartedLanding.rst </docs/source`
 ..................
 
 GridlabDBook.rst
