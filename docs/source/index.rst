@@ -15,25 +15,25 @@ Contents
 Guidance Docs
 -------------
 
-:doc:GettingStartedLanding.rst
+:doc:`GettingStartedLanding.rst`
 ..................
 
-:doc:GridlabDBook.rst
+GridlabDBook.rst
 ............
 
 Heavy Content
 -------------
 
-:doc:HeavyContent1.rst
+HeavyContent1.rst
 .................
 
-:doc:HeavyContent1A.rst
+HeavyContent1A.rst
 
-:doc:HeavyContent1B.rst
+HeavyContent1B.rst
 
-:doc:HeavyContent2.rst
+HeavyContent2.rst
 ..................
 
-:doc:HeavyContent2A.rst
+HeavyContent2A.rst
 
 
