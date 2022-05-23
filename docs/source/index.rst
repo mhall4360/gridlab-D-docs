@@ -15,5 +15,5 @@ Contents
 Guidance Docs
 -------------
 
-Getting Started Landing
+:doc:`GettingStartedLanding.rst`
 
