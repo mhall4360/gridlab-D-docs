@@ -24,16 +24,18 @@ GridlabDBook
 Heavy Content
 -------------
 
-HeavyContent1
+Heavy Content 1
 .................
 
-HeavyContent1A
+Heavy Content 1A
+`````````````````
 
-HeavyContent1B
+Heavy Content 1B
+````````````````
 
-HeavyContent2
+Heavy Content 2
 ..................
 
-HeavyContent2A
-
+Heavy Content 2A
+`````````````````
 
