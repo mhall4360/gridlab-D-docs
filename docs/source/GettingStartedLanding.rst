@@ -1,4 +1,4 @@
-Testing page 1
+Getting Started Landing Page 1
 ==============
 
 Poipu
