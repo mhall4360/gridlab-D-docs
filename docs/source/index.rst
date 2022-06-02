@@ -6,6 +6,11 @@ Welcome to Molly's documentation!
 
    This project is under active development.
 
+Guidance Docs
+-------------
+
+:doc:`gettingstartedlanding`
+
 Contents
 --------
 
@@ -15,8 +20,5 @@ Contents
    gettingstartedlanding
 
 
-Guidance Docs
--------------
 
-:doc:GettingStartedLanding.rst
 
