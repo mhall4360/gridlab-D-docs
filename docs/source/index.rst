@@ -10,6 +10,9 @@ Contents
 --------
 
 .. toctree::
+   :caption: test
+   
+   gettingstartedlanding
 
 
 Guidance Docs
