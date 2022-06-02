@@ -9,6 +9,8 @@ Welcome to Molly's documentation!
 Contents
 --------
 
+..contents::
+
 .. toctree::
 
 
@@ -25,6 +27,7 @@ Heavy Content
 -------------
 
 Heavy Content 1
+
 
 
 Heavy Content 1A
