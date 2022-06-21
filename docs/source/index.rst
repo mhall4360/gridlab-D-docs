@@ -12,7 +12,7 @@ Contents
    :caption: Legend
    
    Legend/GuideLegend
-   Legent/HeavyLegend
+   Legend/HeavyLegend
 
 .. toctree::
    :caption: Guidebooks
