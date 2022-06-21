@@ -2,14 +2,6 @@ Welcome to Molly's documentation!
 ===================================
 
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-..contents::
 
 .. toctree::
    :caption: test
