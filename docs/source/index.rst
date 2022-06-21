@@ -13,8 +13,21 @@ Contents
 
 .. toctree::
    :caption: test
+   GettingStarted/GettingStartedLanding
    
-   gettingstartedlanding
+.. toctree::
+   :caption: test2
+   GuideBook/GridlabDBookLanding
+   
+.. toctree::
+   :caption: test3
+   Heavy/HeavyContent1
+   Heavy/HeavyContent1A
+   Heavy/HeavyContent1B
+   Heavy/HeavyContent2
+   Heavy/HeavyContent2A
+   
+
 
 
 Guidance Docs
