@@ -9,6 +9,11 @@ Contents
 --------
 
 .. toctree::
+   :caption: Legend
+   Legend/GuideLegend
+   Legent/HeavyLegend
+
+.. toctree::
    :caption: Guidebooks
    GettingStarted/GettingStartedLanding
    GuideBook/GridlabDBookLanding
