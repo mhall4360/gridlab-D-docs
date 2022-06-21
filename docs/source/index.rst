@@ -10,6 +10,9 @@ Contents
 .. toctree::
    :caption: test
    
+   Heavy/HeavyContent1
+   Heavy/HeavyContent2
+   
 
 
 
