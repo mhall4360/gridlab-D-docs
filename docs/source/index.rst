@@ -9,7 +9,12 @@ Contents
 --------
 
 .. toctree::
-   :caption: test
+   :caption: Guidebooks
+   GettingStarted/GettingStartedLanding
+   GuideBook/GridlabdBookLanding
+
+.. toctree::
+   :caption: Heavy Content
    
    Heavy/HeavyContent1
    Heavy/HeavyContent2
