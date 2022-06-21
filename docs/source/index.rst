@@ -2,14 +2,7 @@ Welcome to Molly's documentation!
 ===================================
 
 
-   
-.. toctree::
-   :caption: test3
-   Heavy/HeavyContent1
-   Heavy/HeavyContent1A
-   Heavy/HeavyContent1B
-   Heavy/HeavyContent2
-   Heavy/HeavyContent2A
+
    
 
 
