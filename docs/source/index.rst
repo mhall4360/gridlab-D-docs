@@ -2,14 +2,6 @@ Welcome to Molly's documentation!
 ===================================
 
 
-
-.. toctree::
-   :caption: test
-   GettingStarted/GettingStartedLanding
-   
-.. toctree::
-   :caption: test2
-   GuideBook/GridlabDBookLanding
    
 .. toctree::
    :caption: test3
