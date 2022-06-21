@@ -1,37 +1,18 @@
 Welcome to Molly's documentation!
 ===================================
-
+teeest124
 
 
    
+Contents
+--------
 
+.. toctree::
+   :caption: test
+   
+   Heavy/HeavyContent1
+   Heavy/HeavyContent2
+   
 
-
-Guidance Docs
--------------
-
-Getting Started Landing
-
-
-GridlabD Book
-
-
-Heavy Content
--------------
-
-Heavy Content 1
-
-
-
-Heavy Content 1A
-
-
-Heavy Content 1B
-
-
-Heavy Content 2
-
-
-Heavy Content 2A
 
 
