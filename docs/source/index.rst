@@ -11,7 +11,7 @@ Contents
 .. toctree::
    :caption: Guidebooks
    GettingStarted/GettingStartedLanding
-   GuideBook/GridlabdBookLanding
+   GuideBook/GridlabDBookLanding
 
 .. toctree::
    :caption: Heavy Content
