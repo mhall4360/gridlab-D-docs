@@ -10,8 +10,6 @@ Contents
 .. toctree::
    :caption: test
    
-   gettingstartedlanding
-
 
 
 
